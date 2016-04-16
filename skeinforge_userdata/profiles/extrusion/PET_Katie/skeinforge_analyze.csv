@@ -1,0 +1,12 @@
+Format is tab separated skeinforge analyze settings.
+_Name                          	Value
+WindowPosition	1203+262
+Open File for Analyze	C:/Users/Sam/Documents/STL/sunnies holder.ABS_Katie._025fill_80EL.gcode
+clairvoyance	False
+comment	False
+interpret	False
+skeiniso	False
+skeinlayer	False
+statistic	True
+synopsis	False
+vectorwrite	False

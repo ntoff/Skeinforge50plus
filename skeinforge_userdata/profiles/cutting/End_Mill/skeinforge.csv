@@ -1,0 +1,9 @@
+Format is tab separated skeinforge settings.
+_Name                          	Value
+WindowPosition	3168+42
+Open File for Skeinforge	C:/Users/Sam/Documents/sdfasdfa.obj
+analyze	False
+craft	True
+help	False
+meta	False
+profile	False

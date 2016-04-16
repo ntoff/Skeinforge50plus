@@ -1,0 +1,22 @@
+Format is tab separated export settings.
+_Name                          	Value
+WindowPosition	700+0
+Open File for Export	D:/Print Tools/Skeinforge/skeinforge_application/test_carve.svg
+Activate Export	True
+Add Descriptive Extension	True
+Add Export Suffix	False
+Add Profile Extension	True
+Add Timestamp Extension	False
+Also Send Output To:	
+Analyze Gcode	False
+Do Not Delete Comments	False
+Delete Crafting Comments	False
+Delete All Comments	True
+Do Not Change Output	False
+binary_16_byte	False
+gcode_step	False
+gcode_time_segment	False
+gcode_small	True
+File Extension:	gcode
+Name of Replace File:	replace.csv
+Save Penultimate Gcode	False

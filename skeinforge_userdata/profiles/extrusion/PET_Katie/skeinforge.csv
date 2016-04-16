@@ -1,0 +1,9 @@
+Format is tab separated skeinforge settings.
+_Name                          	Value
+WindowPosition	2250+85
+Open File for Skeinforge	D:/Downloads/3D Models/Stackable_Component_Bins__Louvre_Panel_Trays/Stackable_Component_Bins__Louvre_Panel_Trays/Louvre_Bin_Side_80l40h_1.0.STL
+analyze	False
+craft	True
+help	False
+meta	False
+profile	False

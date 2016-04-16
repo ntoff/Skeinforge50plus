@@ -1,0 +1,9 @@
+Format is tab separated skeinforge settings.
+_Name                          	Value
+WindowPosition	2986+54
+Open File for Skeinforge	Z:/testing/20x20x5_test_cube.STL
+analyze	False
+craft	True
+help	False
+meta	False
+profile	False

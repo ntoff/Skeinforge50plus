@@ -1,0 +1,6 @@
+Format is tab separated clairvoyance settings.
+_Name                          	Value
+WindowPosition	1008+299
+Activate Clairvoyance	False
+Open File to Generate Clairvoyances for	Z:/testing/20x20x5_test_cube.ABS_Katie._00fill_45EL.gcode
+Gcode Program:	webbrowser

@@ -1,0 +1,9 @@
+Format is tab separated skeinforge settings.
+_Name                          	Value
+WindowPosition	2986+54
+Open File for Skeinforge	Z:/Mendel90 Fan Duct-Fan_Duct_V2_duct.stl
+analyze	False
+craft	True
+help	False
+meta	False
+profile	False

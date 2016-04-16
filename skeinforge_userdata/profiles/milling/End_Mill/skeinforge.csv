@@ -1,0 +1,9 @@
+Format is tab separated skeinforge settings.
+_Name                          	Value
+WindowPosition	1215+0
+Open File for Skeinforge	M:/_ORCA-040/export-stl-11febr/sf50/030layer/kabouter-big-3dscan3-scale05.stl
+analyze	False
+craft	True
+help	False
+meta	False
+profile	False

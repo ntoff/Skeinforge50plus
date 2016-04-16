@@ -1,0 +1,11 @@
+Format is tab separated statistic settings.
+_Name                          	Value
+WindowPosition	1342+447
+Activate Statistic	True
+Machine Time ($/hour):	0.05
+Material ($/kg):	50.0
+Density (kg/m3):	1040.0
+Time Adjust (ratio):	1.2
+Open File to Generate Statistics for	Z:/testing/10x10x10_penultimate.gcode
+Print Statistics	True
+Save Statistics	True
